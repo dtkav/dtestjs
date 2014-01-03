@@ -26,6 +26,7 @@ dtest.print_stats();
 
 
 ```
+
 ```
 PASS :: math basic addition, one plus one
 FAIL :: math number comparison, 5318008<3
@@ -38,3 +39,8 @@ wow - so test
 
 2|2
 ```
+
+such colors
+=========
+![colored output](http://f.dtkav.com/static/dtestjs_colors.png "colored output")
+
