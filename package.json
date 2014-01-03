@@ -1,0 +1,24 @@
+{
+  "name": "dtest",
+  "description": "simple unit tests with stats",
+  "version": "0.0.1",
+  "author": {
+    "name": "Daniel Grossmann-Kavanagh"
+  },
+  "dependencies": { 
+    "colors" : "*" 
+  },
+  "homepage": "https://github.com/dtkav/dtestjs",
+  "bugs": {
+    "url": "https://github.com/dtkav/dtestjs/issues"
+  },
+  "keywords": [
+    "assert",
+    "unit test"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/dtkav/dtestjs.git"
+  },
+  "main": "dtest"
+}
