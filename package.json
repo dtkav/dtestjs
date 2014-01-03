@@ -1,7 +1,7 @@
 {
   "name": "dtest",
   "description": "simple unit tests with stats",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": {
     "name": "Daniel Grossmann-Kavanagh"
   },
